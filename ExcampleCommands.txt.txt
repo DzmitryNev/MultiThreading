@@ -1,0 +1,6 @@
+MainApp1 args:
+g:\temp\spring\spring-framework\spring-beans\src\main\ C:\Users\Dima\eclipse-workspace\parser1\src\main\resources\dictionary.txt C:\Users\Dima\eclipse-workspace\parser1\src\main\resources\result.txt
+
+MainApp2 args:
+
+g:\temp\spring\spring-framework\ C:\Users\Dima\eclipse-workspace\parser1\src\main\resources\dictionary.txt C:\Users\Dima\eclipse-workspace\parser1\src\main\resources\result.txt
